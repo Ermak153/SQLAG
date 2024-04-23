@@ -1,0 +1,11 @@
+C:\Users\ermak\source\repos\SQLAG\bin\Debug\SQLAG.exe.config
+C:\Users\ermak\source\repos\SQLAG\bin\Debug\SQLAG.exe
+C:\Users\ermak\source\repos\SQLAG\bin\Debug\SQLAG.pdb
+C:\Users\ermak\source\repos\SQLAG\obj\Debug\SQLAG.csproj.AssemblyReference.cache
+C:\Users\ermak\source\repos\SQLAG\obj\Debug\SQLAG.Form1.resources
+C:\Users\ermak\source\repos\SQLAG\obj\Debug\SQLAG.Properties.Resources.resources
+C:\Users\ermak\source\repos\SQLAG\obj\Debug\SQLAG.csproj.GenerateResource.cache
+C:\Users\ermak\source\repos\SQLAG\obj\Debug\SQLAG.csproj.CoreCompileInputs.cache
+C:\Users\ermak\source\repos\SQLAG\obj\Debug\SQLAG.exe
+C:\Users\ermak\source\repos\SQLAG\obj\Debug\SQLAG.pdb
+C:\Users\ermak\source\repos\SQLAG\obj\Debug\SQLAG.Form2.resources
